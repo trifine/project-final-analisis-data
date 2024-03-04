@@ -1,2 +1,5 @@
 link drive
 https://drive.google.com/drive/folders/17eAdMgFnoI5ODZjoiJtWxmy8TlAkVOqz?usp=sharing
+
+link streamlit
+https://enzgl4kadbzvhyfdrm2xwc.streamlit.app/
